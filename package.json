@@ -1,15 +1,15 @@
 {
   "name": "simple-boilerplate",
   "version": "1.0.0",
-  "description": "A simple boilerplate with ES6, Gulp, Pug, Stylus and Browsersync",
+  "description": "My personal portifolio",
   "main": "index.js",
-  "repository": "+https://github.com/adeonir/simple-boilerplate.git",
+  "repository": "+https://github.com/amadeu01/acf.git",
   "keywords": [
     "frontend boilerplate"
   ],
-  "author": "Adeonir Kohl <contato@adeonir.com> (https://adeonir.com)",
+  "author": "Amadeu <amadeu01@gmail.com>",
   "license": "MIT",
-  "homepage": "https://gitlab.com/adeonir/simple-boilerplate#readme",
+  "homepage": "https://gitlab.com/amadeu01/acf#readme",
   "dependencies": {
     "senna": "^2.4.1"
   },
